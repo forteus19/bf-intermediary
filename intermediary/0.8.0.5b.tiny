@@ -538,7 +538,7 @@ CLASS	com/boehmod/blockfront/aV	com/boehmod/blockfront/unnamed/BF_1164
 METHOD	com/boehmod/blockfront/aV	(Lcom/boehmod/blockfront/rU;Lcom/boehmod/blockfront/qX;)V	a	method_5852
 CLASS	com/boehmod/blockfront/aW	com/boehmod/blockfront/unnamed/BF_43
 METHOD	com/boehmod/blockfront/aW	(Lnet/minecraft/client/Minecraft;Lcom/boehmod/blockfront/fq;Lcom/boehmod/blockfront/l;Lnet/minecraft/client/player/LocalPlayer;Lnet/minecraft/client/multiplayer/ClientLevel;Lcom/boehmod/blockfront/rG;)V	a	method_173
-CLASS	com/boehmod/blockfront/aX	com/boehmod/blockfront/unused/BF_1239
+CLASS	com/boehmod/blockfront/aX	com/boehmod/blockfront/unnamed/BF_1239
 FIELD	com/boehmod/blockfront/aX	F	V	field_7232
 FIELD	com/boehmod/blockfront/aX	F	W	field_7233
 FIELD	com/boehmod/blockfront/aX	I	aD	field_7234
@@ -3608,13 +3608,13 @@ METHOD	com/boehmod/blockfront/ea	(Lnet/minecraft/network/chat/Component;Lnet/min
 METHOD	com/boehmod/blockfront/ea	(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/gui/GuiGraphics;)V	c	method_1004
 METHOD	com/boehmod/blockfront/ea	()I	height	height
 METHOD	com/boehmod/blockfront/ea	(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/gui/components/toasts/ToastComponent;J)Lnet/minecraft/client/gui/components/toasts/Toast$Visibility;	render	render
-CLASS	com/boehmod/blockfront/eb	com/boehmod/blockfront/unused/BF_1235
+CLASS	com/boehmod/blockfront/eb	com/boehmod/blockfront/unnamed/BF_1235
 FIELD	com/boehmod/blockfront/eb	Z	bH	field_7192
 FIELD	com/boehmod/blockfront/eb	Z	bI	field_7193
 FIELD	com/boehmod/blockfront/eb	F	cS	field_7194
 METHOD	com/boehmod/blockfront/eb	(FLnet/minecraft/client/Minecraft;)V	a	method_6091
 METHOD	com/boehmod/blockfront/eb	(Lnet/minecraft/client/Minecraft;)V	l	method_6092
-CLASS	com/boehmod/blockfront/ec	com/boehmod/blockfront/unused/BF_1236
+CLASS	com/boehmod/blockfront/ec	com/boehmod/blockfront/unnamed/BF_1236
 FIELD	com/boehmod/blockfront/ec	Lnet/minecraft/resources/ResourceLocation;	cA	field_7199
 FIELD	com/boehmod/blockfront/ec	Lnet/minecraft/resources/ResourceLocation;	cB	field_7200
 FIELD	com/boehmod/blockfront/ec	F	cT	field_7195
@@ -5554,7 +5554,7 @@ METHOD	com/boehmod/blockfront/iW	()Lcom/mojang/serialization/MapCodec;	codec	cod
 METHOD	com/boehmod/blockfront/iW	(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;	getCollisionShape	getCollisionShape
 METHOD	com/boehmod/blockfront/iW	(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/RenderShape;	getRenderShape	getRenderShape
 METHOD	com/boehmod/blockfront/iW	(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/entity/BlockEntity;	newBlockEntity	newBlockEntity
-CLASS	com/boehmod/blockfront/iX	com/boehmod/blockfront/unused/BF_1247
+CLASS	com/boehmod/blockfront/iX	com/boehmod/blockfront/unnamed/BF_1247
 FIELD	com/boehmod/blockfront/iX	Lnet/minecraft/world/level/block/state/properties/BooleanProperty;	b	field_7252
 FIELD	com/boehmod/blockfront/iX	I	hu	field_7253
 FIELD	com/boehmod/blockfront/iX	I	hv	field_7254
@@ -5562,7 +5562,7 @@ METHOD	com/boehmod/blockfront/iX	(Lnet/minecraft/world/level/block/state/BlockSt
 METHOD	com/boehmod/blockfront/iX	(Lnet/minecraft/world/level/block/state/BlockState;)Z	isRandomlyTicking	isRandomlyTicking
 METHOD	com/boehmod/blockfront/iX	(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V	randomTick	randomTick
 METHOD	com/boehmod/blockfront/iX	(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V	tick	tick
-CLASS	com/boehmod/blockfront/iY	com/boehmod/blockfront/unused/BF_1248
+CLASS	com/boehmod/blockfront/iY	com/boehmod/blockfront/unnamed/BF_1248
 FIELD	com/boehmod/blockfront/iY	Lnet/minecraft/world/level/block/state/properties/BooleanProperty;	c	field_7255
 FIELD	com/boehmod/blockfront/iY	F	fh	field_7256
 FIELD	com/boehmod/blockfront/iY	I	hw	field_7257
@@ -5611,22 +5611,22 @@ METHOD	com/boehmod/blockfront/ie	(Lcom/boehmod/bflib/cloud/packet/common/request
 METHOD	com/boehmod/blockfront/ie	(Lcom/boehmod/bflib/cloud/packet/common/requests/PacketRequestedPlayerStatusSet;Lcom/boehmod/bflib/cloud/connection/Connection;)V	a	method_1780
 METHOD	com/boehmod/blockfront/ie	(Lcom/boehmod/bflib/cloud/packet/common/server/PacketServerNotification;Lcom/boehmod/bflib/cloud/connection/Connection;)V	a	method_1781
 METHOD	com/boehmod/blockfront/ie	()V	aA	method_1782
-CLASS	com/boehmod/blockfront/if	com/boehmod/blockfront/unused/BF_1240
+CLASS	com/boehmod/blockfront/if	com/boehmod/blockfront/unnamed/BF_1240
 METHOD	com/boehmod/blockfront/if	(Lcom/boehmod/bflib/cloud/common/reward/AbstractItemRewardType;)Lnet/minecraft/network/chat/Component;	a	method_6127
 METHOD	com/boehmod/blockfront/if	(Lcom/boehmod/bflib/cloud/common/reward/AbstractItemRewardType;Lnet/minecraft/client/gui/GuiGraphics;IIII)V	a	method_6128
-CLASS	com/boehmod/blockfront/ig	com/boehmod/blockfront/unused/BF_1241
-CLASS	com/boehmod/blockfront/ih	com/boehmod/blockfront/unused/BF_1242
+CLASS	com/boehmod/blockfront/ig	com/boehmod/blockfront/unnamed/BF_1241
+CLASS	com/boehmod/blockfront/ih	com/boehmod/blockfront/unnamed/BF_1242
 FIELD	com/boehmod/blockfront/ih	I	hd	field_7243
 FIELD	com/boehmod/blockfront/ih	Lnet/minecraft/network/chat/MutableComponent;	m	field_7244
 METHOD	com/boehmod/blockfront/ih	(Lcom/boehmod/bflib/cloud/common/reward/ExpRewardType;)Lnet/minecraft/network/chat/Component;	a	method_6129
 METHOD	com/boehmod/blockfront/ih	(Lcom/boehmod/bflib/cloud/common/reward/ExpRewardType;Lnet/minecraft/client/gui/GuiGraphics;IIII)V	a	method_6130
-CLASS	com/boehmod/blockfront/ii	com/boehmod/blockfront/unused/BF_1243
-CLASS	com/boehmod/blockfront/ij	com/boehmod/blockfront/unused/BF_1244
-CLASS	com/boehmod/blockfront/ik	com/boehmod/blockfront/unused/BF_1245
+CLASS	com/boehmod/blockfront/ii	com/boehmod/blockfront/unnamed/BF_1243
+CLASS	com/boehmod/blockfront/ij	com/boehmod/blockfront/unnamed/BF_1244
+CLASS	com/boehmod/blockfront/ik	com/boehmod/blockfront/unnamed/BF_1245
 METHOD	com/boehmod/blockfront/ik	(Lcom/boehmod/bflib/cloud/common/reward/RewardType;)Lnet/minecraft/network/chat/Component;	a	method_6131
 METHOD	com/boehmod/blockfront/ik	(Lcom/boehmod/bflib/cloud/common/reward/RewardType;Lnet/minecraft/client/gui/GuiGraphics;IIII)V	a	method_6132
 METHOD	com/boehmod/blockfront/ik	(Lnet/minecraft/client/gui/GuiGraphics;IIIII)V	c	method_6133
-CLASS	com/boehmod/blockfront/il	com/boehmod/blockfront/unused/BF_1246
+CLASS	com/boehmod/blockfront/il	com/boehmod/blockfront/unnamed/BF_1246
 FIELD	com/boehmod/blockfront/il	Lcom/boehmod/blockfront/ik;	a	field_7245
 FIELD	com/boehmod/blockfront/il	Ljava/util/Map;	j	field_7246
 METHOD	com/boehmod/blockfront/il	(Lcom/boehmod/bflib/cloud/common/reward/RewardType;)Lcom/boehmod/blockfront/ik;	a	method_6134
@@ -6007,7 +6007,7 @@ FIELD	com/boehmod/blockfront/ji	Lnet/minecraft/world/level/block/state/propertie
 CLASS	com/boehmod/blockfront/jj	com/boehmod/blockfront/unnamed/BF_539
 FIELD	com/boehmod/blockfront/jj	Lnet/minecraft/world/phys/shapes/VoxelShape;	f	field_2258
 METHOD	com/boehmod/blockfront/jj	(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;	getShape	getShape
-CLASS	com/boehmod/blockfront/jk	com/boehmod/blockfront/unused/BF_1249
+CLASS	com/boehmod/blockfront/jk	com/boehmod/blockfront/unnamed/BF_1249
 CLASS	com/boehmod/blockfront/jl	com/boehmod/blockfront/unnamed/BF_541
 CLASS	com/boehmod/blockfront/jm	com/boehmod/blockfront/unnamed/BF_542
 CLASS	com/boehmod/blockfront/jn	com/boehmod/blockfront/unnamed/BF_543
@@ -6361,7 +6361,7 @@ METHOD	com/boehmod/blockfront/kO	(Lcom/boehmod/blockfront/mV;)V	c	method_1933
 CLASS	com/boehmod/blockfront/kP	com/boehmod/blockfront/unnamed/BF_558
 METHOD	com/boehmod/blockfront/kP	(Lnet/minecraft/world/entity/player/Player;FLnet/minecraft/world/item/ItemStack;FF)V	a	method_1934
 METHOD	com/boehmod/blockfront/kP	(Lnet/minecraft/world/phys/Vec3;FLnet/minecraft/world/item/ItemStack;FF)V	a	method_1935
-CLASS	com/boehmod/blockfront/kQ	com/boehmod/blockfront/unused/BF_1226
+CLASS	com/boehmod/blockfront/kQ	com/boehmod/blockfront/unnamed/BF_1226
 CLASS	com/boehmod/blockfront/kR	com/boehmod/blockfront/unnamed/BF_559
 FIELD	com/boehmod/blockfront/kR	Lcom/boehmod/blockfront/mV;	a	field_2334
 FIELD	com/boehmod/blockfront/kR	Z	dI	field_2335
@@ -6812,7 +6812,7 @@ METHOD	com/boehmod/blockfront/km	(Lcom/boehmod/blockfront/iH;Lcom/mojang/brigadi
 METHOD	com/boehmod/blockfront/km	(Lcom/boehmod/blockfront/iH;Lcom/mojang/brigadier/context/CommandContext;)I	f	method_2105
 METHOD	com/boehmod/blockfront/km	(Lcom/boehmod/blockfront/iH;Lcom/mojang/brigadier/context/CommandContext;)I	g	method_2106
 METHOD	com/boehmod/blockfront/km	(Lcom/boehmod/blockfront/iH;Lcom/mojang/brigadier/context/CommandContext;)I	h	method_2107
-CLASS	com/boehmod/blockfront/kn	com/boehmod/blockfront/unused/BF_1250
+CLASS	com/boehmod/blockfront/kn	com/boehmod/blockfront/unnamed/BF_1250
 METHOD	com/boehmod/blockfront/kn	(Lcom/mojang/brigadier/CommandDispatcher;Lnet/minecraft/commands/CommandBuildContext;)V	a	method_6151
 METHOD	com/boehmod/blockfront/kn	(Lcom/mojang/brigadier/context/CommandContext;)I	a	method_6152
 METHOD	com/boehmod/blockfront/kn	(Lcom/mojang/brigadier/context/CommandContext;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/core/Holder$Reference;)V	a	method_6153
@@ -9312,7 +9312,7 @@ METHOD	com/boehmod/blockfront/o	(Ljava/util/Set;Ljava/util/Set;Ljava/util/Set;)V
 METHOD	com/boehmod/blockfront/o	(Ljava/util/UUID;)Z	a	method_3232
 METHOD	com/boehmod/blockfront/o	()Ljava/util/Set;	b	method_3233
 METHOD	com/boehmod/blockfront/o	()Ljava/util/Set;	c	method_3234
-CLASS	com/boehmod/blockfront/oA	com/boehmod/blockfront/unused/BF_1228
+CLASS	com/boehmod/blockfront/oA	com/boehmod/blockfront/unnamed/BF_1228
 METHOD	com/boehmod/blockfront/oA	(Lcom/boehmod/blockfront/ip;Lnet/minecraft/server/level/ServerPlayer;Ljava/util/UUID;Lnet/minecraft/world/phys/Vec3;)V	a	method_6052
 METHOD	com/boehmod/blockfront/oA	(Lcom/boehmod/blockfront/ip;Lnet/minecraft/server/level/ServerPlayer;Lnet/minecraft/world/phys/Vec3;)V	a	method_6053
 CLASS	com/boehmod/blockfront/oB	com/boehmod/blockfront/unnamed/BF_826
@@ -9616,7 +9616,7 @@ METHOD	com/boehmod/blockfront/og	(Lio/netty/buffer/ByteBuf;)V	write	write
 METHOD	com/boehmod/blockfront/og	(Lcom/boehmod/bflib/fds/tag/FDSTagCompound;)V	writeToFDS	writeToFDS
 METHOD	com/boehmod/blockfront/og	(I)V	y	method_3379
 METHOD	com/boehmod/blockfront/og	(I)V	z	method_3380
-CLASS	com/boehmod/blockfront/oh	com/boehmod/blockfront/unused/BF_1227
+CLASS	com/boehmod/blockfront/oh	com/boehmod/blockfront/unnamed/BF_1227
 METHOD	com/boehmod/blockfront/oh	(Lcom/boehmod/blockfront/qp;Ljava/util/UUID;Lnet/minecraft/world/phys/Vec3;)Z	a	method_6050
 METHOD	com/boehmod/blockfront/oh	(Lnet/minecraft/client/Minecraft;Lcom/boehmod/blockfront/l;)V	b	method_6051
 CLASS	com/boehmod/blockfront/oi	com/boehmod/blockfront/unnamed/BF_808
@@ -10677,7 +10677,7 @@ METHOD	com/boehmod/blockfront/qo	()F	au	method_3815
 METHOD	com/boehmod/blockfront/qo	()Ljava/util/UUID;	getUUID	getUUID
 METHOD	com/boehmod/blockfront/qo	()Lnet/minecraft/world/item/ItemStack;	k	method_3816
 METHOD	com/boehmod/blockfront/qo	()V	onUpdate	onUpdate
-CLASS	com/boehmod/blockfront/qp	com/boehmod/blockfront/unused/BF_1229
+CLASS	com/boehmod/blockfront/qp	com/boehmod/blockfront/unnamed/BF_1229
 FIELD	com/boehmod/blockfront/qp	Ljava/util/UUID;	C	field_7135
 FIELD	com/boehmod/blockfront/qp	Ljava/util/UUID;	D	field_7136
 FIELD	com/boehmod/blockfront/qp	Lnet/minecraft/world/phys/Vec3;	c	field_7137
@@ -10699,7 +10699,7 @@ METHOD	com/boehmod/blockfront/qp	(Lnet/minecraft/world/phys/Vec3;)V	e	method_606
 METHOD	com/boehmod/blockfront/qp	()Lnet/minecraft/resources/ResourceLocation;	getIcon	getIcon
 METHOD	com/boehmod/blockfront/qp	()Ljava/util/UUID;	h	method_6065
 METHOD	com/boehmod/blockfront/qp	()Ljava/util/UUID;	i	method_6066
-CLASS	com/boehmod/blockfront/qq	com/boehmod/blockfront/unused/BF_1230
+CLASS	com/boehmod/blockfront/qq	com/boehmod/blockfront/unnamed/BF_1230
 FIELD	com/boehmod/blockfront/qq	Lnet/minecraft/resources/ResourceLocation;	ej	field_7142
 FIELD	com/boehmod/blockfront/qq	Lnet/minecraft/resources/ResourceLocation;	ek	field_7143
 FIELD	com/boehmod/blockfront/qq	Lnet/minecraft/resources/ResourceLocation;	el	field_7144
@@ -11461,7 +11461,7 @@ METHOD	com/boehmod/blockfront/rO	()V	aC	method_6115
 METHOD	com/boehmod/blockfront/rO	(Lnet/minecraft/world/entity/LivingEntity;)Lnet/minecraft/world/phys/Vec3;	b	method_4266
 METHOD	com/boehmod/blockfront/rO	(Lnet/minecraft/world/level/ClipContext;)Lnet/minecraft/world/phys/BlockHitResult;	b	method_4280
 METHOD	com/boehmod/blockfront/rO	(Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/phys/Vec3;Lnet/minecraft/world/entity/LivingEntity;Lcom/boehmod/blockfront/iA;)V	b	method_5793
-CLASS	com/boehmod/blockfront/rP	com/boehmod/blockfront/unused/BF_1237
+CLASS	com/boehmod/blockfront/rP	com/boehmod/blockfront/unnamed/BF_1237
 FIELD	com/boehmod/blockfront/rP	Lcom/boehmod/blockfront/rO;	a	field_7221
 METHOD	com/boehmod/blockfront/rP	(Lcom/boehmod/blockfront/rV;Ljava/util/function/Function;)Lcom/boehmod/blockfront/rO;	a	method_6116
 CLASS	com/boehmod/blockfront/rQ	com/boehmod/blockfront/unnamed/BF_946
@@ -11841,7 +11841,7 @@ METHOD	com/boehmod/blockfront/sH	()Lnet/minecraft/world/phys/Vec3;	g	method_4415
 METHOD	com/boehmod/blockfront/sH	()I	hashCode	hashCode
 METHOD	com/boehmod/blockfront/sH	()Ljava/lang/String;	toString	toString
 METHOD	com/boehmod/blockfront/sH	()Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	type	type
-CLASS	com/boehmod/blockfront/sI	com/boehmod/blockfront/unused/BF_1231
+CLASS	com/boehmod/blockfront/sI	com/boehmod/blockfront/unnamed/BF_1231
 FIELD	com/boehmod/blockfront/sI	Lnet/minecraft/network/codec/StreamCodec;	B	field_7152
 FIELD	com/boehmod/blockfront/sI	Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	B	field_7153
 FIELD	com/boehmod/blockfront/sI	Ljava/util/UUID;	G	field_7154
@@ -11856,7 +11856,7 @@ METHOD	com/boehmod/blockfront/sI	()Ljava/util/UUID;	j	method_6073
 METHOD	com/boehmod/blockfront/sI	()Ljava/util/UUID;	k	method_6074
 METHOD	com/boehmod/blockfront/sI	()Ljava/lang/String;	toString	toString
 METHOD	com/boehmod/blockfront/sI	()Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	type	type
-CLASS	com/boehmod/blockfront/sJ	com/boehmod/blockfront/unused/BF_1232
+CLASS	com/boehmod/blockfront/sJ	com/boehmod/blockfront/unnamed/BF_1232
 FIELD	com/boehmod/blockfront/sJ	Lnet/minecraft/network/codec/StreamCodec;	C	field_7157
 FIELD	com/boehmod/blockfront/sJ	Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	C	field_7158
 FIELD	com/boehmod/blockfront/sJ	Lnet/minecraft/world/phys/Vec3;	ae	field_7159
@@ -11868,7 +11868,7 @@ METHOD	com/boehmod/blockfront/sJ	()Lnet/minecraft/world/phys/Vec3;	g	method_6077
 METHOD	com/boehmod/blockfront/sJ	()I	hashCode	hashCode
 METHOD	com/boehmod/blockfront/sJ	()Ljava/lang/String;	toString	toString
 METHOD	com/boehmod/blockfront/sJ	()Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	type	type
-CLASS	com/boehmod/blockfront/sK	com/boehmod/blockfront/unused/BF_1233
+CLASS	com/boehmod/blockfront/sK	com/boehmod/blockfront/unnamed/BF_1233
 FIELD	com/boehmod/blockfront/sK	Lnet/minecraft/network/codec/StreamCodec;	D	field_7161
 FIELD	com/boehmod/blockfront/sK	Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	D	field_7162
 FIELD	com/boehmod/blockfront/sK	Ljava/util/UUID;	I	field_7163
@@ -11883,7 +11883,7 @@ METHOD	com/boehmod/blockfront/sK	()I	hashCode	hashCode
 METHOD	com/boehmod/blockfront/sK	()Ljava/util/UUID;	k	method_6082
 METHOD	com/boehmod/blockfront/sK	()Ljava/lang/String;	toString	toString
 METHOD	com/boehmod/blockfront/sK	()Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	type	type
-CLASS	com/boehmod/blockfront/sL	com/boehmod/blockfront/unused/BF_1234
+CLASS	com/boehmod/blockfront/sL	com/boehmod/blockfront/unnamed/BF_1234
 FIELD	com/boehmod/blockfront/sL	Lnet/minecraft/network/codec/StreamCodec;	E	field_7166
 FIELD	com/boehmod/blockfront/sL	Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	E	field_7167
 FIELD	com/boehmod/blockfront/sL	Ljava/util/UUID;	K	field_7168
@@ -15552,7 +15552,7 @@ METHOD	com/boehmod/blockfront/tm	(Lcom/boehmod/blockfront/tm;Lnet/neoforged/neof
 METHOD	com/boehmod/blockfront/tm	()V	cj	method_5540
 METHOD	com/boehmod/blockfront/tm	(Lnet/minecraft/network/FriendlyByteBuf;)V	d	method_5541
 METHOD	com/boehmod/blockfront/tm	()Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	type	type
-CLASS	com/boehmod/blockfront/tn	com/boehmod/blockfront/unused/BF_1238
+CLASS	com/boehmod/blockfront/tn	com/boehmod/blockfront/unnamed/BF_1238
 FIELD	com/boehmod/blockfront/tn	Lnet/minecraft/network/codec/StreamCodec;	ag	field_7225
 FIELD	com/boehmod/blockfront/tn	Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload$Type;	ag	field_7226
 FIELD	com/boehmod/blockfront/tn	Ljava/lang/String;	bN	field_7227
