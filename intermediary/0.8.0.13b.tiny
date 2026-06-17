@@ -11148,7 +11148,7 @@ METHOD	com/boehmod/blockfront/pb	(Ljava/lang/Float;)V	a	method_7561
 METHOD	com/boehmod/blockfront/pb	(Lnet/minecraft/client/Camera;Lcom/mojang/blaze3d/vertex/PoseStack;ILnet/minecraft/core/Direction$Axis;)V	a	method_7562
 METHOD	com/boehmod/blockfront/pb	(Lnet/minecraft/client/Minecraft;Lcom/boehmod/blockfront/l;Lcom/boehmod/blockfront/oo;Lnet/minecraft/client/player/LocalPlayer;Lnet/minecraft/client/multiplayer/ClientLevel;)V	a	method_7563
 METHOD	com/boehmod/blockfront/pb	(Lnet/minecraft/client/Minecraft;Lcom/boehmod/blockfront/l;Lcom/boehmod/blockfront/oo;Lnet/minecraft/client/player/LocalPlayer;Lnet/minecraft/client/multiplayer/ClientLevel;)V	b	method_7564
-METHOD	com/boehmod/blockfront/pb	(Lnet/minecraft/client/Minecraft;Lcom/boehmod/blockfront/l;Lnet/minecraft/util/RandomSource;Lcom/boehmod/blockfront/oo;Lnet/minecraft/client/player/LocalPlayer;Lnet/minecraft/client/multiplayer/ClientLevel;F)V	b	method_3087
+METHOD	com/boehmod/blockfront/pb	(Lnet/minecraft/client/Minecraft;Lcom/boehmod/blockfront/l;Lnet/minecraft/util/RandomSource;Lcom/boehmod/blockfront/oo;Lnet/minecraft/client/player/LocalPlayer;Lnet/minecraft/client/multiplayer/ClientLevel;F)V	b	method_8156
 METHOD	com/boehmod/blockfront/pb	(Lnet/minecraft/client/player/LocalPlayer;)Z	e	method_7565
 CLASS	com/boehmod/blockfront/pb$1	com/boehmod/blockfront/unnamed/BF_1389$1
 FIELD	com/boehmod/blockfront/pb$1	[I	p	field_8244
@@ -19084,4 +19084,4 @@ METHOD	com/boehmod/blockfront/z	()Ljava/lang/String;	toString	toString
 CLASS	com/boehmod/blockfront/z$a	com/boehmod/blockfront/unnamed/BF_1124$BF_1125
 # INTERMEDIARY-COUNTER BF 1468
 # INTERMEDIARY-COUNTER field 8755
-# INTERMEDIARY-COUNTER method 8156
+# INTERMEDIARY-COUNTER method 8157
